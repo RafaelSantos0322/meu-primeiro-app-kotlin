@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name" translatable="false">Aplicación-DIO</string>
+    <string name="navigation_drawer_open" translatable="false">Abrir Cajón de Navegación</string>
+    <string name="navigation_drawer_close" translatable="false">Cerrar Cajón de Navegación</string>
+    <string name="nav_header_title" translatable="false">Android Studio</string>
+    <string name="nav_header_subtitle" translatable="false">android.studio@android.com</string>
+    <string name="nav_header_desc" translatable="false">Encabezado de Navegación</string>
+    <string name="action_settings" translatable="false">Ajustes</string>
+
+    <string name="menu_home" translatable="false">Casa</string>
+    <string name="menu_gallery" translatable="false">Galería</string>
+    <string name="menu_slideshow" translatable="false">Diapositivas</string>
+</resources>
